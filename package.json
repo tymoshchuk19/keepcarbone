@@ -1,5 +1,5 @@
 {
-  "name": "carbone",
+  "name": "@keeps/carbone",
   "description": "Fast, Simple and Powerful report generator. Injects JSON and produces PDF, DOCX, XLSX, ODT, PPTX, ODS, ...!",
   "version": "3.2.3",
   "bin": "bin/carbone",
