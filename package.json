@@ -30,6 +30,7 @@
   "dependencies": {
     "dayjs": "=1.10.4",
     "debug": "=4.1.1",
+    "qrcode": "^1.5.1",
     "timsort": "=0.3.0",
     "which": "=2.0.2",
     "yauzl": "=2.10.0",
